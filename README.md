@@ -1,0 +1,1 @@
+Spam Detector using Machine Learning in Python. This project uses TF-IDF vectorization and Multinomial Naive Bayes to classify SMS messages as Spam or Ham. The model achieves 98% accuracy on the dataset. Built with scikit-learn, pandas, and includes a ready-to-use Python script for training and prediction.
